@@ -197,15 +197,6 @@ button.ow {
 	background-color: #BC0404;
 }
 
-button.res {
-	position: absolute;
-	top: 40px;
-	left: 500px;
-}
-
-.res:hover {
-	background-color: #BC0404;
-}
 
 
 button.ill {
