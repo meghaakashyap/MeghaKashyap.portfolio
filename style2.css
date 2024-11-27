@@ -100,7 +100,9 @@ button.res {
 	
 }
 
-
+.res:hover {
+	background-color: #BC0404;
+}
 
 button.ill {
 	position: absolute;
