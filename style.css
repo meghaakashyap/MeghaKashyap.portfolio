@@ -12,6 +12,124 @@
 
 
 
+
+
+
+button{
+	color: #FFFFFF;
+	background-color: #000000;
+	font-family: sans-serif;
+	font-size: 18px;
+	font-weight: normal;
+	border-radius: 25px;
+	border: none;
+	padding: 10px 20px 10px 20px;
+
+}
+
+button.home {
+	position: absolute;
+	top: 40px;
+	left: 200px;
+}
+
+.home:hover {
+	background-color: #BC0404;
+}
+
+button.resume {
+	position: absolute;
+	top: 40px;
+	left: 1030px;
+}
+
+
+
+.email:hover {
+	background-color: #BC0404;
+}
+
+
+}
+
+.otherwork:hover {
+ background-color: #BC0404;
+}
+
+button.ow {
+
+	position: absolute;
+	top: 40px;
+	left: 1520px;
+}
+
+
+}
+
+.ow:hover{
+	background-color: #BC0404;
+}
+
+.resume:hover{
+	background-color: #BC0404;
+}
+
+button.res {
+	position: absolute;
+	top: 40px;
+	left: 500px;
+	background-color: #BC0404;
+}
+
+
+
+button.ill {
+	position: absolute;
+	top: 40px;
+	left: 670px;
+}
+
+.ill:hover{
+	background-color: #BC0404;
+}
+
+
+
+
+.ill:hover{
+	background-color: #BC0404;
+}
+
+button.gd {
+	position: absolute;
+	top: 40px;
+	left: 830px;
+} 
+
+.gd:hover {
+	background-color: #BC0404;
+}
+
+
+button.gd2 {
+	position: absolute;
+	top: 40px;
+	left: 830px;
+	background-color: #BC0404;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
 button{
 	color: #FFFFFF;
 	background-color: #000000;
