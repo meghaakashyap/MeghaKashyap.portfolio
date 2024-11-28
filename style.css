@@ -40,7 +40,7 @@ button.home {
 button.resume {
 	position: absolute;
 	top: 40px;
-	left: 1030px;
+	left: 1090px;
 }
 
 
@@ -107,7 +107,7 @@ button.ill {
 button.gd {
 	position: absolute;
 	top: 40px;
-	left: 830px;
+	left: 890px;
 } 
 
 .gd:hover {
@@ -118,7 +118,7 @@ button.gd {
 button.gd2 {
 	position: absolute;
 	top: 40px;
-	left: 830px;
+	left: 890px;
 	background-color: #BC0404;
 } 
 
@@ -159,7 +159,7 @@ button.home {
 button.resume {
 	position: absolute;
 	top: 40px;
-	left: 1030px;
+	left: 1090px;
 }
 
 button.resume2 {
@@ -213,7 +213,7 @@ button.ill {
 button.gd {
 	position: absolute;
 	top: 40px;
-	left: 830px;
+	left: 890px;
 } 
 
 .gd:hover {
