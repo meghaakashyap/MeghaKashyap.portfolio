@@ -279,12 +279,13 @@ img.face {
 
 
 
+	
 
 p.line {
 	position: absolute;
 	top: 225px;
 	left: 500px;
-	font-size: 35px;
+	font-size: 20px;
 	font-weight: normal;
 	color: #000000;
 	line-height: 47px;
