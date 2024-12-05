@@ -1,0 +1,442 @@
+@media (max-width: 500px) {
+
+
+	body {
+		width: 100%;
+	}
+
+	#header {
+	height: 230px;
+	width: 500px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	background-color: #F1F1F1;
+	}
+
+	button{
+	color: #ebebeb;
+	background-color: #000000;
+	font-family: sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+	border-radius: 15px;
+	
+	padding: 10px 20px 10px 20px;
+    }
+
+	button.home {
+	position: absolute;
+	top: 20px;
+	left: 160px;
+	display: flex;
+	align-content: center;
+
+
+    }
+
+     button.res {
+	 position: absolute;
+	 top: 70px;
+	left: 145px;
+    }
+
+
+    button.ill {
+	position: absolute;
+	top: 120px;
+	left: 115px; 
+    }
+
+
+    button.gd {
+	position: absolute;
+	top: 170px;
+	left: 127px;
+     } 
+
+    
+
+    button.resume {
+	display: none;
+    }
+
+
+
+
+
+
+
+
+
+	
+
+
+	div.intro {
+		width: 450px;
+		height: 600px;
+		top: 230px;
+		background-color: #ffffff;
+	}
+
+	
+	h1{
+		font-size: 26px;
+		left: 30px;
+		top: 50px;
+		padding-right: 120px;
+		color: #BC0404;
+		font-weight: bold;
+
+	}
+
+	p.line {
+		font-size: 18px;
+		line-height: 24px;
+		left: 30px;
+		top: 95px;
+		padding-right: 80px;
+		font-family: sans-serif;
+
+	}
+
+	.line{
+	
+	color: #ffffff;
+    }
+
+    .white {
+    	
+	color: #ffffff;
+    }
+    
+
+
+	img.face {
+		left: -10px;
+	    height: 400px;
+	    width: 400px;
+	    top: 145px;
+	}
+
+	p.org {
+		top: 500px;
+		font-size: 14px;
+		padding-right: 80px;
+		left: 80px;
+		color: #6f7370;
+	}
+
+	img.logo {
+	   
+	    top: 550px;
+	    left: 10px;
+	    height: 50px;
+	    width: 370px;
+
+	}
+
+
+
+    div.cs {
+		top: 850px;
+		width: 500px;
+		background-color: #D9D9D9;
+		left: 0px;
+		height: 1200px;
+		
+	}
+
+
+	
+
+
+	h3 {
+
+		top: 10px;
+	    left: 130px;
+	    font-size: 15px;
+
+
+	}
+
+	div.square {
+		position: absolute;
+		top: 70px;
+		height: 430px;
+		width: 380px;	
+		background-color: #8FABDD;
+	    border-radius: 50px;
+	    left: 20px;
+	}
+
+	img.bsf {
+	     
+	     top: 135px;
+	     left: 28px;
+	     height: 200px;
+	     width: 340px;
+    }
+
+    p.projectname {
+	
+	    top: 10px;
+	    left: 40px;
+        font-size: 22px;
+        line-height: 28px;
+
+
+
+       
+
+    }
+
+
+.blue {
+	color:#000000;
+	
+}
+
+.blue2 {
+	color:#000000;
+	
+}
+
+
+
+	p.for {
+	    
+	 color: #8FABDD; 
+	 top: 0px; 
+	 left: 20px; 
+
+	    
+    }
+
+    p.des {
+
+	   
+	   color: #8FABDD;
+	   top: 135px; 
+	   left: 20px;
+	   font-size: 1px;
+
+
+	  
+     }
+
+     button.casestudy {
+
+     	top: 360px;
+	    left: 30px;
+	    font-size: 14px;
+	    padding: 7px 110px 7px 110px;
+	
+}
+
+
+    div.square2 {
+		position: absolute;
+		top: 530px;
+		height: 430px;
+		width: 380px;	
+		background-color: #8BAC63;
+	    border-radius: 50px;
+	    left: 20px;
+	}
+
+
+	p.citizenscience {
+	    position: absolute;
+	    top: 15px;
+	    left: 40px;
+        font-size: 22px;
+	    line-height: 28px;
+	    font-family: sans-serif;
+
+
+
+     }
+
+     p.csdes {
+     	color: #8BAC63; 
+	   top: 0px; 
+	   left: 20px;
+	   font-size: 1px;
+     }
+
+    .motivate {
+	    font-weight: bold;
+	    color: #000000;
+	
+     }
+
+     .longterm {
+	
+	     color: #000000;
+	
+     }
+
+
+
+
+     div.footer {
+	 
+	    top: 1900px;
+	    width: 500px;
+	    height: 200px
+
+    }
+
+    p.LinkedIn {
+
+	font-size: 14px;
+	
+	top: 20px;
+	left: 100px;
+	color: #000000;
+}
+
+    p.gmail {
+	font-size: 14px;
+	
+	top: 50px;
+	left: 100px;
+	
+}
+
+p.insta {
+	font-size: 14px;
+	position: absolute;
+	top: 80px;
+	left: 100px;
+
+	
+}
+
+p.phone {
+	font-size: 14px;
+	
+	top: 110px;
+	left: 100px;
+	
+}
+
+
+    img.cscover {
+
+	     
+	     top: 135px;
+	     left: 18px;
+	     height: 180px;
+	     width: 340px;
+	    
+    }
+
+    button.cscs {
+	    top: 360px;
+	    left: 30px;
+	    font-size: 14px;
+	    padding: 7px 110px 7px 110px
+	   
+
+
+   }
+
+
+
+   	img.bsf1 {
+
+	
+	top: 230px;
+	
+    height: 800px;
+	width: 450px;
+	
+}
+
+img.bsf2 {
+
+	top: 1010px;
+	
+    height: 850px;
+	width: 450px;
+	
+}
+
+img.bsf3 {
+position: absolute;
+	top: 1850px;
+	align-content: center;
+    height: 740px;
+	width: 450px;
+}
+
+img.bsf4 {
+
+	top: 2590px;
+	
+    height: 740px;
+	width: 450px;
+}
+
+   button.backtoprojects {
+   	top: 3400px;
+   	left: 80px;
+   	font-size: 14px;
+	    padding: 7px 110px 7px 110px;
+
+   }
+
+   img.cscs1 {
+   	top: 230px;
+	
+    height: 900px;
+	width: 450px;
+   }
+
+   img.cscs2 {
+   	top: 1130px;
+	
+    height: 800px;
+	width: 450px;
+   }
+
+   img.cscs3 {
+   	top: 1930px;
+	
+    height: 850px;
+	width: 450px;
+   }
+
+   img.cscs4 {
+   	top: 2800px;
+	
+    height: 850px;
+	width: 450px;
+   }
+
+   button.btp {
+   	top: 3600px;
+   	left: 80px;
+   	font-size: 14px;
+	 padding: 7px 110px 7px 110px;
+
+
+   }
+
+   div.footer3 {
+	 
+	   display: none;
+
+	}
+
+
+
+
+
+
+
+
+
+}

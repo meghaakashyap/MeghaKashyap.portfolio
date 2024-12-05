@@ -1,0 +1,478 @@
+@media (max-width: 500px) {
+
+
+	body {
+		width: 100%;
+	}
+
+	#header {
+	height: 230px;
+	width: 500px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	background-color: #ffffff;
+	}
+
+	button{
+	color: #ebebeb;
+	background-color: #000000;
+	font-family: sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+	border-radius: 15px;
+	
+	padding: 10px 20px 10px 20px;
+    }
+
+	button.home {
+	position: absolute;
+	top: 20px;
+	left: 160px;
+	display: flex;
+	align-content: center;
+
+
+    }
+
+     button.res2 {
+	 position: absolute;
+	 top: 70px;
+	left: 145px;
+    }
+
+
+    button.ill2 {
+	position: absolute;
+	top: 120px;
+	left: 115px; 
+    }
+
+
+    button.gd {
+	position: absolute;
+	top: 170px;
+	left: 127px;
+     } 
+
+    
+
+    button.resume {
+	display: none;
+    }
+
+
+
+
+
+
+
+
+	div.square1 {
+		height: 580px;
+		width: 500px;
+		top: 230px;
+		left: 0px;
+	}
+
+	p.news {
+		top: 40px;
+   	    left: 30px;
+   	    font-size: 30px;
+	}
+
+	p.ndes1 {
+		font-size: 0px;
+	}
+
+
+	img.n1 {
+   	top: 120px;
+   	left:  30px;
+   	height: 200px;
+   	width: 280px;
+   
+
+   }
+
+   img.n2 {
+   	top: 340px;
+   	left: 30px;
+   	height: 200px;
+   	width: 280px;
+   	
+   }
+
+   div.square2 {
+		height: 550px;
+		width: 500px;
+		top: 800px;
+		left: 0px;
+	}
+
+	p.BC {
+		top: 10px;
+   	    left: 100px;
+   	    font-size: 20px;
+	}
+
+	img.bc1 {
+		top: 80px;
+		left: 40px;
+		height: 400px;
+		width: 300px;
+	}
+
+	img.bc3 {
+		top: 510px;
+		left: 40px;
+		height: 400px;
+		width: 300px;
+	}
+
+	div.exhibits {
+		height: 1600px;
+		width: 500px;
+		top: 1750px;
+		left: 0px;
+
+	}
+
+
+	div.s4 {
+		position: absolute;
+		top: 80px;
+		height: 465px;
+		width: 380px;	
+		background-color: #D3A584;
+	    border-radius: 50px;
+	    left: 20px;
+	}
+
+
+	p.mdes1 {
+		top: 500px;
+		left: 30px;
+	
+		font-size: 0px;
+	}
+
+	div.footer3 {
+		top: 3400px;
+       	width: 500px;
+       	height: 200px;
+	}
+
+	div.s5 {
+		position: absolute;
+		top: 580px;
+		height: 425px;
+		width: 380px;	
+		background-color: #DACCB3;
+	    border-radius: 50px;
+	    left: 20px;
+	}
+
+	div.s6 {
+		position: absolute;
+		top: 1045px;
+		height: 450px;
+		width: 380px;	
+		background-color: #C3DEDE;
+	    border-radius: 50px;
+	    left: 20px;
+	}
+
+	img.ex {
+		top: 160px;
+   		 
+   		 left: 35px;
+   		 height: 160px;
+   	     width: 300px;
+	}
+
+	p.exname {
+		top: 10px;
+   		left: 30px;
+   		font-size: 25px;
+   		line-height: 28px;
+
+	}
+
+	p.exdes {
+		top: 85px;
+   		left: 33px;
+   		font-size: 13px;
+   		padding-right: 10px;
+   		line-height: 14px;
+	}
+
+	p.exorg {
+		top: 320px;
+    	left: 35px;
+    	font-size: 13px;
+    	line-height: 18px;
+	}
+
+	button.vp4 {
+		top: 400px;
+
+	    left: 35px;
+	    font-size: 14px;
+	    padding: 7px 115px 7px 115px;
+	}
+
+
+	img.rs {
+		top: 200px;
+   		 
+   		 left: 35px;
+   		 height: 160px;
+   	     width: 300px;
+	}
+
+	p.rs {
+		top: 10px;
+   		left: 30px;
+   		font-size: 28px;
+   		line-height: 32px;
+	}
+
+	p.rsdes {
+		top: 95px;
+   		left: 33px;
+   		font-size: 13px;
+   		padding-right: 10px;
+   		line-height: 14px;
+	}
+
+	button.vp5 {
+		top: 380px;
+
+	    left: 35px;
+	    font-size: 14px;
+	    padding: 7px 115px 7px 115px;
+	}
+
+
+	img.vs {
+		top: 160px;
+   		 
+   		 left: 35px;
+   		 height: 180px;
+   	     width: 300px;
+	}
+
+	p.vs {
+
+		top: 10px;
+   		left: 30px;
+   		font-size: 25px;
+   		line-height: 32px;
+
+
+	}
+
+	p.vsdes {
+		top: 60px;
+   		left: 33px;
+   		font-size: 13px;
+   		padding-right: 10px;
+   		line-height: 14px;
+	}
+
+	button.vp6 {
+		top: 360px;
+
+	    left: 35px;
+	    font-size: 14px;
+	    padding: 7px 115px 7px 115px
+	}
+
+	 p.l {
+
+	font-size: 14px;
+	
+	top: 20px;
+	left: 100px;
+	color: #000000;
+}
+
+    p.g {
+	font-size: 14px;
+	
+	top: 50px;
+	left: 100px;
+	
+}
+
+p.i {
+	font-size: 14px;
+	position: absolute;
+	top: 80px;
+	left: 100px;
+
+	
+}
+
+p.p {
+	font-size: 14px;
+	
+	top: 110px;
+	left: 100px;
+	
+}
+
+
+    img.a4c1 {
+       	top: 230px;
+	
+        height: 990px;
+	    width: 450px;
+
+       }
+
+    img.a4c2 {
+       	top: 700px;
+	
+        height: 1020px;
+	    width: 450px;
+
+       }
+
+    img.a4c3 {
+       	top: 1600px;
+	
+        height: 700px;
+	    width: 450px;
+
+       }
+
+     button.btp3 {
+     	top: 2300px;
+   	     left: 80px;
+   	     font-size: 14px;
+	      padding: 7px 100px 7px 100px;
+       }
+
+     img.fr1 {
+     	top: 230px;
+	
+        height: 1000px;
+	    width: 450px;
+     }
+
+     img.fr2 {
+     	top: 1250px;
+	
+        height: 990px;
+	    width: 450px;
+     }
+
+     img.fr3 {
+     	top: 2200px;
+	
+        height: 990px;
+	    width: 450px;
+     }
+
+
+     button.btp2 {
+
+     	top: 3200px;
+   	     left: 80px;
+   	     font-size: 14px;
+	      padding: 7px 100px 7px 100px;
+
+     }
+
+     img.val1{
+     	top: 230px;
+	
+        height: 580px;
+	    width: 450px;
+     }
+
+     img.val2{
+     	top: 820px;
+	
+        height: 580px;
+	    width: 450px;
+     }
+
+     img.val3 {
+     	top: 1400px;
+	
+        height: 800px;
+	    width: 450px;
+     }
+
+     button.btp4 {
+     	top: 2300px;
+   	    left: 60px;
+   	    font-size: 14px;
+	    padding: 7px 100px 7px 100px;
+     }
+
+
+
+     div.vsp1 {
+     	top: 230px;
+     	height: 2150px;
+     }
+
+     img.v1 {
+     	top: 0px;
+        height: 200px;
+	    width: 450px;
+     }
+
+     img.v2 {
+     	top: 230px;
+        height: 200px;
+	    width: 300px;
+	    left: 60px;
+     }
+
+     img.v3 {
+     	top: 430px;
+        height: 230px;
+	    width: 450px;
+     }
+
+     img.v4 {
+     	top: 650px;
+        height: 250px;
+	    width: 450px;
+     }
+
+     img.v5 {
+     	top: 900px;
+        height: 580px;
+	    width: 450px;
+     }
+
+     img.v6 {
+     	top: 1500px;
+        height: 580px;
+	    width: 450px;
+     }
+
+     button.btp1 {
+     	top: 2100px;
+   	    left: 60px;
+   	    font-size: 14px;
+	    padding: 7px 100px 7px 100px;
+     }
+
+
+
+
+
+
+
+
+
+
+
+}
